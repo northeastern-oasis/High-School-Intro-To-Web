@@ -1,6 +1,6 @@
 # Intro to Web Coding Step 1: Intro to HTML/CSS
 
-**To get started, open this project in Repl.it, Fork it (you may have to sign in to Github), and then head back here**: [https://repl.it/@chessmyers/EngageWorkshop](https://repl.it/@chessmyers/EngageWorkshop) 
+**To get started, open this project in Repl.it, Fork it (you may have to sign in to Github or make a Github account), and then head back here**: [https://repl.it/@chessmyers/EngageWorkshop](https://repl.it/@chessmyers/EngageWorkshop) 
 
 (Repl.it just lets us write/execute HTML/CSS code in your browser, but normally this would be done on your computer)
 
